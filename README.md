@@ -19,7 +19,7 @@ CURSOS LINK 👇
 | 06  | [Footer Designs-6](https://github.com/johnpires/09-Footer-Designs/tree/main/Footer-Designs-06)      | Clique aqui |
 | 07  | [Footer Designs-7](https://github.com/johnpires/09-Footer-Designs/tree/main/Footer-Designs-07)      | Clique aqui |
 | 08  | [Footer Designs-8](https://github.com/johnpires/09-Footer-Designs/tree/main/Footer-Designs-08)      | Clique aqui |
-| 09  | [Footer Designs-9]()      | Clique aqui |
+| 09  | [Footer Designs-9](https://github.com/johnpires/09-Footer-Designs/tree/main/Footer-Designs-09)      | Clique aqui |
 
 
 <br>
